@@ -22,6 +22,6 @@ Searching for the entership or work.
 
 ## My projects
 * [RFID-Scanner Project](https://github.com/Egran-Andr/CardReder-Control-App) –
-* Basic Physical Access Control System using RFID scanner on WPF.
+Basic Physical Access Control System using RFID scanner on WPF.
 * [RFID API](https://github.com/Egran-Andr/Python-WebApiForRFID) – 
 Python FastAPI Service for RFID-Scanner project
