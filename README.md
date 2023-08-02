@@ -12,7 +12,7 @@ Searching for the entership or work.
 
 ## Stack
 *   C# (.Net 5.0,.Net 6.0),Entity Framework,HttpClient, WPF
-*   PostgreSQL, MySQL, MongoDB
+*   PostgreSQL, MySQL, MongoDB,Firebase
 *   Git,Docker
 *   Base knowledge of React.js
 
