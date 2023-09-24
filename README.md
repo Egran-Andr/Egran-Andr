@@ -8,13 +8,15 @@
 
 C# (Asp.Net) Backend-developer(Trainee/junior).
 
-Searching for the entership or work.
+Searching for the entership or junior position.
 
 ## Stack
 *   C# (.Net 5.0,.Net 6.0),Entity Framework,HttpClient, WPF
-*   PostgreSQL, MySQL, MongoDB,Firebase
+*   PostgreSQL, MySQL, MongoDB,Firebase,Redis
 *   Git,Docker
 *   Base knowledge of React.js
+*   Java(Android) / Python(FastAPI,Flask,Django)
+
 
 ## My Interests
 *   Game development(Unity)
