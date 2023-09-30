@@ -26,8 +26,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 C# (Asp.Net) Backend-developer(Trainee/junior).
+
 This year I graduated from State University of Aerospace Instrumentation college with a specialty «Software Developer».
-Searching for the entership or junior position.
+
+Looking for a job as an intern or junior position. 
 
 ## Skills
 *   C# (.Net 5.0,.Net 6.0)/Entity Framework/HttpClient/WPF
