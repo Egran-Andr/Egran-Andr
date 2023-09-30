@@ -10,6 +10,9 @@
   <a href="https://spb.hh.ru/resume/ccf91325ff0b0efb6b0039ed1f646359447532">
       <img src="https://custom-icon-badges.demolab.com/badge/HH.ru-red.svg?style=for-the-badge&logo=min-hh-red&color=e1011c" />
   </a>
+  <a href="https://www.linkedin.com/in/egor-andreev-b17883293/">
+      <img src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>  
 </p>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -23,13 +26,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 C# (Asp.Net) Backend-developer(Trainee/junior).
-
+This year I graduated from State University of Aerospace Instrumentation college with a specialty «Software Developer».
 Searching for the entership or junior position.
 
 ## Stack
-*   C# (.Net 5.0,.Net 6.0),Entity Framework,HttpClient, WPF
-*   PostgreSQL, MySQL, MongoDB,Firebase,Redis
-*   Git,Docker
+*   C# (.Net 5.0,.Net 6.0)/Entity Framework/HttpClient/WPF
+*   PostgreSQL/ MySQL/MongoDB/Firebase/Redis
+*   Git/Docker
 *   Base knowledge of React.js
 *   Java(Android) / Python(FastAPI,Flask,Django)
 
