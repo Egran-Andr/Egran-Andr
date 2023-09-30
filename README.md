@@ -29,7 +29,7 @@ C# (Asp.Net) Backend-developer(Trainee/junior).
 This year I graduated from State University of Aerospace Instrumentation college with a specialty «Software Developer».
 Searching for the entership or junior position.
 
-## Stack
+## Skills
 *   C# (.Net 5.0,.Net 6.0)/Entity Framework/HttpClient/WPF
 *   PostgreSQL/ MySQL/MongoDB/Firebase/Redis
 *   Git/Docker
