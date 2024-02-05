@@ -15,41 +15,40 @@
   </a>  
 </p>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## About
 
-C# (Asp.Net) Backend-developer(Trainee/junior).
+🔭 I graduated from Saint Petersburg State University of Aerospace Instrumentation with a specialty «Software Developer».
 
-This year I graduated from State University of Aerospace Instrumentation college with a specialty «Software Developer».
+💭 My personal mission is learn something new and improve my skills.
 
-Looking for a job as an intern or junior position. 
+🏃🏻‍♂️ Outside of work, I like reading, playing computer games and listening to music.
+
+💻 Looking for a job as an intern or junior position.
 
 ## Skills
-*   C# (.Net 5.0,.Net 6.0)/Entity Framework/HttpClient/WPF
-*   PostgreSQL/ MySQL/MongoDB/Firebase/Redis
-*   Git/Docker
-*   Base knowledge of React.js
-*   Java(Android) / Python(FastAPI,Flask,Django)
+*   C# (.Net 5.0,.Net 6.0) / Entity Framework/ HttpClient/ WPF
+*   Python (FastAPI,Flask,Django) 
+*   PostgreSQL / MySQL / MongoDB / Firebase / Redis
+*   Git / Docker / Jira
+*   Base knowledge of React
 
 
 ## My Interests
 *   Game development(Unity)
-*   Mobile development(Java,Xamarin)
+*   Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing
+*   Mobile development(Java , Xamarin)
 
 ## My projects
 * [RFID-Scanner Project](https://github.com/Egran-Andr/CardReder-Control-App) –
-Basic Physical Access Control System using RFID scanner on WPF.
+Physical Access Control System using RFID scanner on WPF.
+* [Pytorch Stable-Diffusion](https://github.com/Egran-Andr/pytorch-stable-diffusion) – 
+PyTorch implementation of Stable Diffusion from scratch.
 * [RFID API](https://github.com/Egran-Andr/Python-WebApiForRFID) – 
 Python FastAPI Service for RFID-Scanner project.
+* [D&D-Sheet](https://github.com/Egran-Andr/DND_Mobile_Character_sheet) – 
+Android mobile project for D&D.
 
-### GitHub Stats
+## GitHub Stats
 
 <table class="center" style="width:100%;">
   <tr>
