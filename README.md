@@ -21,7 +21,7 @@
 
 💭 My personal mission is learn something new and improve my skills.
 
-🏃🏻‍♂️ Outside of work, I like reading, playing computer games and listening to music.
+🏃🏻‍♂️ Outside of work, I like reading, playing computer games and listening to heavy music.
 
 💻 Looking for a job as an intern or junior position.
 
