@@ -18,6 +18,7 @@
 ## About
 
 🔭 I graduated from Saint Petersburg State University of Aerospace Instrumentation with a specialty «Software Developer».
+
 💻 Looking for a job as an intern or junior position.
 
 ## Skills
