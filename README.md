@@ -18,16 +18,11 @@
 ## About
 
 🔭 I graduated from Saint Petersburg State University of Aerospace Instrumentation with a specialty «Software Developer».
-
-💭 My personal mission is learn something new and improve my skills.
-
-🏃🏻‍♂️ Outside of work, I like reading, playing computer games and listening to heavy music.
-
 💻 Looking for a job as an intern or junior position.
 
 ## Skills
 *   C# (.Net 5.0,.Net 6.0) / Entity Framework/ HttpClient/ WPF
-*   Python (FastAPI,Flask,Django) 
+*   Python 3.8 and higher (FastAPI,Flask,Django) 
 *   PostgreSQL / MySQL / MongoDB / Firebase / Redis
 *   Git / Docker / Jira
 *   Base knowledge of React
