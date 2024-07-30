@@ -48,8 +48,8 @@ Android mobile project for D&D.
 
 <table class="center" style="width:100%;">
   <tr>
-    <td align="center">
+    <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egran-Andr&count_private=true&langs_count=10&layout=compact&theme=onedark&hide_border=true" />
-</td>
+    </p>
   </tr>
 </table>
