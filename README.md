@@ -42,7 +42,7 @@ PyTorch implementation of Stable Diffusion from scratch.
 * [RFID API](https://github.com/Egran-Andr/Python-WebApiForRFID) – 
 Python FastAPI Service for RFID-Scanner project.
 * [D&D-Sheet](https://github.com/Egran-Andr/DND_Mobile_Character_sheet) – 
-Android mobile project for D&D.
+Java Android mobile project for D&D.
 
 ## GitHub Stats
 
