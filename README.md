@@ -17,16 +17,16 @@
 
 ## About
 
-🔭 I graduated from Saint Petersburg State University of Aerospace Instrumentation with a specialty «Software Developer».
+I graduated from Saint Petersburg State University of Aerospace Instrumentation with a specialty «Software Developer».
+Personal qualities: responsible, neat, stress-resistant and diligent.
 
-💻 Looking for a job as an intern or junior position.
 
 ## Skills
 *   C# (.Net 5.0,.Net 6.0) / Entity Framework/ HttpClient/ WPF
 *   Python 3.8 and higher (FastAPI,Flask,Django) 
 *   PostgreSQL / MySQL / MongoDB / Firebase / Redis
 *   Git / Docker / Jira
-*   Base knowledge of React
+*   Base knowledge of React, Java
 
 
 ## My Interests
@@ -43,6 +43,8 @@ PyTorch implementation of Stable Diffusion from scratch.
 Python FastAPI Service for RFID-Scanner project.
 * [D&D-Sheet](https://github.com/Egran-Andr/DND_Mobile_Character_sheet) – 
 Java Android mobile project for D&D.
+* [OnlyMath Bottle](https://github.com/FYLAG/OnlyMath-practice) – educational project with usage of Python Bottle framework. Idea: Learn responsible for recreation of Depth-first search algorithm 
+
 
 ## GitHub Stats
 
